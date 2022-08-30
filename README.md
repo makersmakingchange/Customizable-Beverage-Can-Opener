@@ -26,13 +26,13 @@ If you have the skills and equipment to build this device, and would like to don
 
 ### 1. Read the Makers Checklist
 
-The Makers Checklist 
+The [Makers Checklist](Documentation/Customizable_Beverage_Can_Opener_Maker_Checklist_v1.0.pdf).
 
 ### 2. Print the 3D Printable components
 
-Print the Base_Can_Opener and, if wanted, any of the three handle designs.
+Print the Base Can Opener and, optionally, any of the three handle designs.
 
-All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing/) folder.
+All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files) folder.
 
 ### 3. Assemble the Customizable Berage Can Opener
 
@@ -53,7 +53,7 @@ Reference the [User Quick Guide](Documentation/Customizable_Beverage_Can_Opener_
 [CAD Files](/Design_Files)
 
 ### Build Files
- - [3D Printing Files](/Build_Files/3D_Printing)
+ - [3D Printing Files](/Build_Files/3D_Printing_Files)
 
 ## Attribution
 Designers:
