@@ -1,7 +1,7 @@
 # Customizable Beverage Can Opener
 The Customizable Beverage Can Opener is a beverage opening tool with different handle options for users with low strength and accuracy.
 
-<img src="Photos/All_Handles_and_Base.jpg" width="500" alt="Picture of Customizable Beverage Can Opener.">
+<img src="Photos/Cylindrical_Handle.jpg" width="500" alt="Picture of Customizable Beverage Can Opener.">
 
 ## More info at
 - [Makers Making Change Project Page](https://makersmakingchange.com/project/customizable-beverage-can-opener/)
