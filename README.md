@@ -57,7 +57,6 @@ Reference the [User Quick Guide](Documentation/Customizable_Beverage_Can_Opener_
 
 ## Attribution
 Designers:
- - Taz Oldaker
  - Idea for base can opener based on the design of pop-top can opener by Thingiverse User VegasGuy under the Creative Commons license - Attribution - Non-Commercial - No Derivatives.
  - Idea for Flat Handle based on Can Opener Helper by Pole Ergo under the Creative Commons license - Attribution - Non-Commercial - No Derivative.
  - Full Design by Neil Squire / Makers Making Change under license.
